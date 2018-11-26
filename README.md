@@ -4,4 +4,4 @@ This repo contains [R Code](https://github.com/DavidQuartey/clustering_ghanas_mp
 ![alt text](https://github.com/DavidQuartey/clustering_ghanas_mps_by_twitter_usage/blob/master/members_of_parliament_groups.png)
 
 ## Technique
-I used [hierarchical clustering](https://www.statisticshowto.datasciencecentral.com/hierarchical-clustering/). This technique allows us to group MPs who share similarities in a lot of their Twitter usage together.
+I used [hierarchical clustering](https://www.statisticshowto.datasciencecentral.com/hierarchical-clustering/). This technique allows us to group MPs who share similarities in a lot of their Twitter usage.
